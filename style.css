@@ -1,0 +1,44 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+}
+
+.back
+{
+    background-color: lightgray;
+    max-width: 500px;
+    width: 100;
+}
+.max-width{
+    max-width: 500px;
+    width: 100%;
+    padding: 30px;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.bg-green{
+    background-color: lightgreen;
+    border-radius: 75%;
+    padding: 10px;
+}
+
+.bg-yellow{
+    background-color:  rgb(232, 238, 144);
+    border-radius: 75%;
+    padding: 10px;
+}
+
+.bg-red{
+    background-color: rgb(212, 82, 82);
+    border-radius: 75%;
+    padding: 10px;
+}
+
+.temporizador {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
